@@ -1,0 +1,31 @@
+.symbol
+{
+    text-align: center;
+    justify-content: center;
+    margin: 30px;
+    background-color: blue;
+}
+#Animal-details{
+    text-align: center;
+    padding: 30px;
+    
+}
+.Animalinfo
+{
+    display: flex;
+    justify-content: center;
+    background-color:None;
+    align-items: center;
+    margin: 30px;
+}
+
+#add-votes{
+    background-color: pink;
+    border-radius: 5px;
+    padding: 10px;
+}
+#reset-button{
+    background-color: red;
+    border-radius: 5px;
+    padding: 10px;
+}
